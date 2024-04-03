@@ -6,6 +6,8 @@ class C3MiddleAbc extends ConsoleProgram {
   */
   
   public void run() {
+    String strLine;
+    strLine = readLine ("Enter the String: ");
     
   }
 }
